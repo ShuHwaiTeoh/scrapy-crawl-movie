@@ -1,5 +1,5 @@
 # scrapy-crawl-movie
-### This project crawl the data from IMDB
+### This project crawls the data from IMDB
 #### Dependencies: python 3.8.3, scrapy 2.6.3, MySQL80
 #### Steps to run the project:
 ##### 1. Create a user named movieuser with 'password' as password in mysql.
